@@ -1,0 +1,14 @@
+name: 🌐 Link
+title: "<Link Title>"
+labels: [link]
+body:
+- type: input
+  attributes:
+    label: URL
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Description
+  validations:
+    required: false
