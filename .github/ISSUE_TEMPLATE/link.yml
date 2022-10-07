@@ -1,7 +1,7 @@
 name: 🌐 Link
 description: Create a new Link item
 title: "<Link Title>"
-labels: [link]
+labels: ["type:link"]
 body:
 - type: input
   attributes:
