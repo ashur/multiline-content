@@ -1,5 +1,5 @@
 name: 🌐 Link
-about: Create a new Link item
+description: Create a new Link item
 title: "<Link Title>"
 labels: [link]
 body:
