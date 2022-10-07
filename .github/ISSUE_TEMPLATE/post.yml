@@ -1,0 +1,10 @@
+name: ✏️ Post
+description: Create a new post
+title: ""
+labels: ["content:post"]
+body:
+- type: textarea
+  attributes:
+    label: Body
+  validations:
+    required: true
