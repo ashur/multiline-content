@@ -1,0 +1,15 @@
+name: 🎷 Song
+description: Create a new song
+title: "<Song Title>"
+labels: ["content:song"]
+body:
+- type: input
+  attributes:
+    label: Artist
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: URL
+  validations:
+    required: true
