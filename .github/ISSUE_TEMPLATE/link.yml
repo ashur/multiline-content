@@ -1,5 +1,5 @@
 name: 🌐 Link
-description: Create a new Link item
+description: Create a new link
 title: "<Link Title>"
 labels: ["content:link"]
 body:
