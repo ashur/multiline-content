@@ -1,6 +1,6 @@
 name: ✏️ Post
 description: Create a new post
-title: ""
+title: "Post"
 labels: ["content:post"]
 body:
 - type: textarea
