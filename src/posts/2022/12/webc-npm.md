@@ -19,9 +19,3 @@ I've only scratched the surface of what WebC can do, but I already see there's a
 - Support for Vue-like single-file component definitions — component HTML, CSS, and JavaScript all in one file
 - Optionally scoped CSS, adding a prefix class to help prevent selector collisions across styles
 - Asynchronous support across the board!
-
-These tentpole features sound like a first-rate foundation for building reusable components, but one small note in the docs has me just as excited:
-
-> New in WebC v0.6.2, you can import directly from an installed npm package.
-
-_Go on..._
