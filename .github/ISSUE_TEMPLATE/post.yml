@@ -2,6 +2,12 @@ name: ✏️ Post
 description: Create a new post
 title: "Post"
 labels: ["content:post","status:draft"]
+publishOn:
+- type: input
+  attributes:
+    label: Publish On
+  validations:
+    required: true
 body:
 - type: textarea
   attributes:
