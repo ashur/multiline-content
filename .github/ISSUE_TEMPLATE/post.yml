@@ -2,7 +2,7 @@ name: ✏️ Post
 description: Create a new post
 title: "Post"
 labels: ["content:post","status:draft"]
-publishOn:
+publish_on:
 - type: input
   attributes:
     label: Publish On
