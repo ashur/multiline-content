@@ -9,7 +9,8 @@ body:
   validations:
     required: true
 - type: input
+  id: publishDate
   attributes:
-    label: Publish On
+    label: Publish Date
   validations:
     required: true
